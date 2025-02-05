@@ -25,3 +25,5 @@
 
 ### CTF
 [![tryhackme stats](https://raw.githubusercontent.com/bytebitegeek/bytebitegeek/master/assets/thm_propic.png)](https://tryhackme.com/p/bytebitegeek)
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4151200" style='border:none;'></iframe>
