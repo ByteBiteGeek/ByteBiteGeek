@@ -24,6 +24,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### CTF
-[![tryhackme stats](https://raw.githubusercontent.com/bytebitegeek/bytebitegeek/master/assets/thm_propic.png)]([https://tryhackme.com/p/bytebitegeek](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4151200))
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4151200" style='border:none;'></iframe>
+[![tryhackme stats](https://raw.githubusercontent.com/bytebitegeek/bytebitegeek/master/assets/thm_propic.png)](https://tryhackme.com/p/bytebitegeek))
