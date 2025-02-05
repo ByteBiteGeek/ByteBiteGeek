@@ -24,4 +24,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### CTF
-![tryhackme stats](https://raw.githubusercontent.com/bytebitegeek/bytebitegeek/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/bytebitegeek/bytebitegeek/assets/thm_propic.png)
