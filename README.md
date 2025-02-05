@@ -23,5 +23,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### CTF
-[![tryhackme stats](https://raw.githubusercontent.com/bytebitegeek/bytebitegeek/master/assets/thm_propic.png)](https://tryhackme.com/p/bytebitegeek))
+### CTF!!
+[![tryhackme stats](https://raw.githubusercontent.com/bytebitegeek/bytebitegeek/master/assets/thm_propic.png)](https://tryhackme.com/p/bytebitegeek)
